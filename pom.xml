@@ -73,7 +73,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>emsH2ActionDocker</finalName>
+		<finalName>ems-h2-action-docker</finalName>
 	</build>
 
 
